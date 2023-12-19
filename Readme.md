@@ -6,7 +6,7 @@ Spotlight Archive Downloader is a Python script designed to download images from
 
 ## Requirements
 
-- Python (version X.X.X)
+- Python (version 3.11)
 - Playwright library
 
 ## Installation
@@ -30,7 +30,7 @@ Spotlight Archive Downloader is a Python script designed to download images from
 1. Run the Python script:
 
     ```bash
-    python Spotlight_Archive_Downloader.py
+    python3 Spotlight_Archive_Downloader.py
     ```
 
 2. The script will launch a browser instance, navigate through the specified pages of the archive, and download images to the specified directory.
